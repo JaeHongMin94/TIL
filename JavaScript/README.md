@@ -1,0 +1,3 @@
+# JavaScript
+
+- [DataType](./DataType.md)
