@@ -1,3 +1,4 @@
 # JavaScript
 
-- [DataType](./DataType.md)
+- [Data Type](./DataType.md)
+- [Type Conversion](./typeConversion.md)
