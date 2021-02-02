@@ -15,3 +15,8 @@
 ## Category
 
 - [JavaScript](./JavaScript)
+
+### ps
+
+- 오타 혹은 틀린 내용이 있다면 언제든 지적해주십쇼!
+- 연락처 : moonshin123@naver.com
