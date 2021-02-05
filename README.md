@@ -14,6 +14,7 @@
 
 ## Category
 
+- [Algorithms](./Algorithms)
 - [JavaScript](./JavaScript)
 
 ### ps
