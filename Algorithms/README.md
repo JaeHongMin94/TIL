@@ -3,4 +3,4 @@
 - [LeetCode](https://leetcode.com/problemset/all/)
 
 ## LeetCode
-- [두 수의 합](./TwoSum.md)
+- [두 수의 합](./LeetCode/TwoSum.md)
