@@ -4,3 +4,4 @@
 
 ## LeetCode
 - [두 수의 합](./LeetCode/TwoSum.md)
+- [ReverseInteger(역 정수)](./LeetCode/ReverseInteger.md)
