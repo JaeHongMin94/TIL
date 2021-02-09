@@ -7,5 +7,5 @@ unshift() 메서드는 배열 맨 앞에에 요소들을 하나이상 추가한�
 const arr = [3, 4, 5];
 
 arr.unshift(1, 2);
-console.log(arr);
+console.log(arr); // [1, 2, 3, 4, 5]
 ```
