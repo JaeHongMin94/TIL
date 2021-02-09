@@ -18,3 +18,5 @@
 
 - [Array.prototype.push()](./Array/push.md)
 - [Array.prototype.pop()](./Array/pop.md)
+- [Array.prototype.unshift()](./Array/unshift.md)
+- [Array.prototype.shift()](./Array/shift.md)
