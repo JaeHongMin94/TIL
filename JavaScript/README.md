@@ -16,7 +16,13 @@
 
 ### Array
 
-- [Array.prototype.push()](./Array/push.md)
+- [Array.prototype.concat()](./Array/concat.md)
+- [Array.prototype.join()](./Array/join.md)
 - [Array.prototype.pop()](./Array/pop.md)
-- [Array.prototype.unshift()](./Array/unshift.md)
+- [Array.prototype.push()](./Array/push.md)
+- [Array.prototype.reverse()](./Array/reverse.md)
 - [Array.prototype.shift()](./Array/shift.md)
+- [Array.prototype.slice()](./Array/slice.md)
+- [Array.prototype.splice()](./Array/splice.md)
+- [Array.prototype.unshift()](./Array/unshift.md)
+
