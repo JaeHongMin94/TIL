@@ -26,3 +26,11 @@
 - [Array.prototype.splice()](./Array/splice.md)
 - [Array.prototype.unshift()](./Array/unshift.md)
 
+### Number
+
+- [Number Property](./Number/Properties.md)
+- [Number.isFinite()](./Number/isFinite.md)
+- [Number.isInteger()](./Number/isInteger.md)
+- [Number.isNaN()](./Number/isNaN.md)
+- [Number.isSafeInteger()](./Number/isSafeInteger.md)
+- [Number.toExponential()](./Number/toExponential.md)
