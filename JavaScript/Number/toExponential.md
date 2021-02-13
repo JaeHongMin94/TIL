@@ -1,6 +1,6 @@
-# Number.toExponential()
+# Number.prototype.toExponential()
 
-Number.toExponential() 메서드는 숫자를 지수 표기법으로 변환 후 문자열로 반환합니다.
+Number.prototype.toExponential() 메서드는 숫자를 지수 표기법으로 변환 후 문자열로 반환합니다.
 - 메서드안에 값은 소수점 이하로 표현할 자릿수입니다. 기본값은 주어진 값을 나타내는데 필요한 자릿수입니다.
 
 ## Example
