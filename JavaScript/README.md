@@ -34,3 +34,6 @@
 - [Number.isNaN()](./Number/isNaN.md)
 - [Number.isSafeInteger()](./Number/isSafeInteger.md)
 - [Number.toExponential()](./Number/toExponential.md)
+- [Number.prototype.toFixed()](./Number/toFixed.md)
+- [Number.prototype.toPrecision()](./Number/toPrecision.md)
+- [Number.prototype.toString()](./Number/toString.md)
