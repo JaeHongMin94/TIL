@@ -26,6 +26,20 @@
 - [Array.prototype.splice()](./Array/splice.md)
 - [Array.prototype.unshift()](./Array/unshift.md)
 
+### Math
+
+- [Math.abs()](./Math/abs.md)
+- [Math.ceil()](./Math/ceil.md)
+- [Math.floor()](./Math/floor.md)
+- [Math.max()](./Math/max.md)
+- [Math.min()](./Math/min.md)
+- [Math.PI](./Math/pi.md)
+- [Math.pow()](./Math/pow.md)
+- [Math.random()](./Math/random.md)
+- [Math.round()](./Math/round.md)
+- [Math.sqrt()](./Math/sqrt.md)
+
+
 ### Number
 
 - [Number Property](./Number/Properties.md)
