@@ -45,6 +45,7 @@ console.log(this.book2); // Java
 ```
 여기서 알 수 있는 점은 일반 함수로 호출하면 함수 내부의 this는 전역 객체로 바인딩하는 것을 알 수 있다.<br>
 하지만 'use strict'모드(엄격한 모드)를 적용하게되면 일반 함수 내부의 this는 undefinde가 바인딩됩니다.
+
 ```js
 function foo() {
   'use strict';
@@ -60,18 +61,19 @@ foo();   // undefined
 ```
 <br>
 다음으로 살펴볼 것은 메서드 내에서 정의한 중첩 함수도 일반 함수로 호출되면 중첩 함수 내부의 this도 전역 객체로 바인딩 되는가이다.
+
 ```js
 var book = 'JS';
 
 const list = {
   book: 'Java',
   foo() {
-    console.log(`foo's this: ${this}`);             // foo's this: {book: 'JAVA', foo: f}
-    console.log(`foo's this.book: ${this.book}`);   // foo's this.book: Java
-    
+    console.log("foo's this: ", this);
+    console.log("foo's this.book: ", this.book);
+
     function bar() {
-      console.log(`bar's this: ${this}`);           // bar's this: window
-      console.log(`bar's this.book: ${this.book}`); // bar's this.book: JS
+      console.log("bar's this: ", this);
+      console.log("bar's this.book: ", this.book);
     }
 
     bar();
